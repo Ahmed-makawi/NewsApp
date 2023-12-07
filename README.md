@@ -1,5 +1,5 @@
 # NewsApp
-### CRUD app that makes the "Admin" upload news about her organaization 
+### CRUD app that makes the "Admin" upload news about his/her organaization 
 - The admin can upload, delete and modifiy the data in the server, and then the user sees it.
 
 
